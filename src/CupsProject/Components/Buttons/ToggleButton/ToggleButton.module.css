@@ -1,0 +1,14 @@
+.Button {
+    width: 180px;
+    height: 40px;
+    color: rgb(161, 142, 31);
+    font-size: 25px;
+    text-align: center;
+    line-height: 0px;
+    background: 
+     linear-gradient(to right, rgb(66, 20, 3), rgb(128, 42, 11) 30% 70%, rgb(66, 20, 3)) padding-box, 
+     linear-gradient(to left, rgb(112, 99, 25), rgb(206, 176, 6), rgb(128, 112, 25)) border-box;
+    border: 3px solid transparent;
+    border-radius: 8px;
+    cursor: pointer;
+}

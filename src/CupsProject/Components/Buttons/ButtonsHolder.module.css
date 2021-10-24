@@ -1,0 +1,8 @@
+.ButtonsHolder {
+    position: absolute;
+    top: 5%;
+    display: grid;
+    width: 100vw;
+    text-align: center;
+    grid-template-columns: auto auto auto;
+}
