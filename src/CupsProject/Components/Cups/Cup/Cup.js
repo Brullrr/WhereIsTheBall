@@ -5,7 +5,6 @@ const Cup = (props) => {
 
     const [leftDisplaced, setleftDisplaced] = useState(false)
     let cupClass = ''
-    console.log(props.position)
     switch (props.position) {
             case 1:
                 cupClass = props.Activate ? classes.CupOne + " " + classes.active : classes.CupOne

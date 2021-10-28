@@ -3,7 +3,6 @@ import Cup from './Cup/Cup';
 import classes from './Cups.module.css';
 
 const Cups = (props) => {
-    console.log('Cups.js  :  '  + props.position)
 
     let positions = []
 

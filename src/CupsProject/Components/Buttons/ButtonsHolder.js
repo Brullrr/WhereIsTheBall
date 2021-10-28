@@ -7,7 +7,7 @@ import classes from './ButtonsHolder.module.css';
 const ButtonsHolder = (props) => {
     return (
         <div className={classes.ButtonsHolder}>   
-            <ChooseButton clicked={props.choose}/>
+            <ChooseButton clicked={props.choose} toggle={props.toggle} shuffle={props.shuffle} change={props.changeBead}/>
             <ShuffleButton clicked={props.shuffle} />
             <ToggleButton clicked={props.toggle} />
         </div>

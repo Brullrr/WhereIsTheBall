@@ -23,11 +23,30 @@ const ChooseButton = (props) => {
 
     const randomNum = Math.floor(Math.random()*3)  
     const position = randomNum === 0 ? positionCenter : randomNum === 1 ? positionLeft : positionRight
-        
+    
+    
+
+            const keyPressed = (pressedKey) => {
+                console.log('ChooseButton pressed key is:  '  + pressedKey.key)
+                if(pressedKey.key === '1') {
+                    props.clicked(position)
+                }
+                if(pressedKey.key === '2') {
+                    props.shuffle()
+                }
+                if(pressedKey.key === '3') {
+                    props.toggle()
+                }
+                if(pressedKey.key === '4') {
+                    props.change()
+                }
+            }
+
+                 
 
     return ( 
-            <div>
-                <button className={classes.Button} onClick={() => props.clicked(position)}>Choose</button>
+            <div >
+                <button className={classes.Button}   onClick={() => props.clicked(position)} onKeyDown={keyPressed} >Choose</button>
             </div>
             )
 };

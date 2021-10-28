@@ -1,11 +1,16 @@
 .Bead {
     position: absolute;
     top: 0%;
-    left: calc(50% - 25px);
-    height: 50px;
-    width: 50px;
+    left: calc(50% - 35px);
+    height: 70px;
+    width: 70px;
     border-radius: 50%;
-    background-color: black;
-    display: inline;
+    display: inline-block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
 }
+
+.Bead:hover {cursor: pointer;}
+
 
