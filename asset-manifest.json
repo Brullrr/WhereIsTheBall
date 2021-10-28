@@ -1,26 +1,36 @@
 {
   "files": {
-    "main.css": "/WhereIsTheBall/static/css/main.0efaa39e.chunk.css",
-    "main.js": "/WhereIsTheBall/static/js/main.2d2993f7.chunk.js",
-    "main.js.map": "/WhereIsTheBall/static/js/main.2d2993f7.chunk.js.map",
+    "main.css": "/WhereIsTheBall/static/css/main.c1661016.chunk.css",
+    "main.js": "/WhereIsTheBall/static/js/main.c9b637fd.chunk.js",
+    "main.js.map": "/WhereIsTheBall/static/js/main.c9b637fd.chunk.js.map",
     "runtime-main.js": "/WhereIsTheBall/static/js/runtime-main.2fce4988.js",
     "runtime-main.js.map": "/WhereIsTheBall/static/js/runtime-main.2fce4988.js.map",
-    "static/js/2.d0d12121.chunk.js": "/WhereIsTheBall/static/js/2.d0d12121.chunk.js",
-    "static/js/2.d0d12121.chunk.js.map": "/WhereIsTheBall/static/js/2.d0d12121.chunk.js.map",
+    "static/js/2.4e93c87e.chunk.js": "/WhereIsTheBall/static/js/2.4e93c87e.chunk.js",
+    "static/js/2.4e93c87e.chunk.js.map": "/WhereIsTheBall/static/js/2.4e93c87e.chunk.js.map",
     "index.html": "/WhereIsTheBall/index.html",
-    "precache-manifest.cdb612a9f1d55439fa9dbdcf8b122e34.js": "/WhereIsTheBall/precache-manifest.cdb612a9f1d55439fa9dbdcf8b122e34.js",
+    "precache-manifest.1e39d443b6063e9d191a3f9593c2fadb.js": "/WhereIsTheBall/precache-manifest.1e39d443b6063e9d191a3f9593c2fadb.js",
     "service-worker.js": "/WhereIsTheBall/service-worker.js",
-    "static/css/main.0efaa39e.chunk.css.map": "/WhereIsTheBall/static/css/main.0efaa39e.chunk.css.map",
-    "static/js/2.d0d12121.chunk.js.LICENSE.txt": "/WhereIsTheBall/static/js/2.d0d12121.chunk.js.LICENSE.txt",
+    "static/css/main.c1661016.chunk.css.map": "/WhereIsTheBall/static/css/main.c1661016.chunk.css.map",
+    "static/js/2.4e93c87e.chunk.js.LICENSE.txt": "/WhereIsTheBall/static/js/2.4e93c87e.chunk.js.LICENSE.txt",
+    "static/media/Abu.gif": "/WhereIsTheBall/static/media/Abu.a3173b68.gif",
+    "static/media/Crush.png": "/WhereIsTheBall/static/media/Crush.3e22195e.png",
+    "static/media/Jagariko.jpg": "/WhereIsTheBall/static/media/Jagariko.3cdb685c.jpg",
+    "static/media/Pokeball.png": "/WhereIsTheBall/static/media/Pokeball.3c5b7682.png",
     "static/media/CupsProject.module.css": "/WhereIsTheBall/static/media/background.08c48d16.jpg",
     "static/media/bison.png": "/WhereIsTheBall/static/media/bison.899a8a34.png",
     "static/media/box.png": "/WhereIsTheBall/static/media/box.5b7abe32.png",
-    "static/media/door.jpg": "/WhereIsTheBall/static/media/door.c609f968.jpg"
+    "static/media/door.jpg": "/WhereIsTheBall/static/media/door.c609f968.jpg",
+    "static/media/doot.gif": "/WhereIsTheBall/static/media/doot.5be2a5e3.gif",
+    "static/media/panda.jpg": "/WhereIsTheBall/static/media/panda.358baed6.jpg",
+    "static/media/pen.gif": "/WhereIsTheBall/static/media/pen.2cee3cf7.gif",
+    "static/media/richard.png": "/WhereIsTheBall/static/media/richard.dff90cfc.png",
+    "static/media/terk.jpg": "/WhereIsTheBall/static/media/terk.70228370.jpg",
+    "static/media/twice.gif": "/WhereIsTheBall/static/media/twice.5cfea426.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.2fce4988.js",
-    "static/js/2.d0d12121.chunk.js",
-    "static/css/main.0efaa39e.chunk.css",
-    "static/js/main.2d2993f7.chunk.js"
+    "static/js/2.4e93c87e.chunk.js",
+    "static/css/main.c1661016.chunk.css",
+    "static/js/main.c9b637fd.chunk.js"
   ]
 }
